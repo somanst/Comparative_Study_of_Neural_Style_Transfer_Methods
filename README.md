@@ -1,9 +1,9 @@
 # 🎨 Comparative Study of Neural Style Transfer Methods
 
-**Final Report for AIN434: Advanced Topics in Artificial Intelligence**  
+**Final Report for AIN434: Fundamentals of Computational Photography**  
 Hacettepe University — Spring 2025
 
-Authored by: [Adam Sattout](https://github.com/somanst) & Ezel Bayraktar
+Authored by: [Adam Sattout](https://github.com/somanst) & [Ezel Bayraktar](https://github.com/EzeLLM)
 
 ---
 
