@@ -57,5 +57,5 @@ This tool enables scalable and reproducible evaluation of image generation model
 
 ## 👫 Authors
 
-- [Adam Sattout](https://github.com/somanst) — Computer/AI Engineering Student at Hacettepe University  
-- [Ezel Bayraktar](https://github.com/EzeLLM) — Computer/AI Engineering Student at Hacettepe University
+- [Adam Sattout](https://github.com/somanst) — AI Engineering Student at Hacettepe University  
+- [Ezel Bayraktar](https://github.com/EzeLLM) — Computer Engineering Student at Hacettepe University
